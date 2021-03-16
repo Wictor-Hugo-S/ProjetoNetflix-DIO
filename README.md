@@ -9,7 +9,8 @@ Aprender como estruturar um layout, técnicas de CSS3 com containers e variávei
   
   # Desktop:
   
- ![image](https://user-images.githubusercontent.com/75641454/111310861-4cd32d80-863c-11eb-92d0-97b9864814d4.png)
+![image](https://user-images.githubusercontent.com/75641454/111318532-e7833a80-8643-11eb-96ad-a73937dbe03f.png)
+
 
    # Responsividade :
 
