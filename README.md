@@ -1,4 +1,4 @@
-# ProjetoNetflix-DIO
+# ProjetoNetflix
 Recriação da tela da netflix, com algumas alterações.
 
 # Objetivos
